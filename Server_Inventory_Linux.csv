@@ -1,0 +1,6 @@
+Environment,CI,Release_date,Affected_CIs,Short_Description,Category,Assigned_Group,Assigned_To,Change_Coordinator,Technical_Approver,Patching_Type,Implemention_Plan,BackoutPlan,ValidationPlan,
+Development ,Active Update,01/02/19 09:00,CH3TR019845;CH3PR016586;CH3BR015586;CH3AR016586,Development  |Linux Patching,Hardware,CAB Approval,Luke Wilson,JP,.Bart Hachey,Normal,PFA,PFA,PFA,
+Development ,3Com DMI Agent,01/05/19 09:00,CH3DP020661;CH3CP123654;CH3UP136591,Development  |Linux Patching,Software,CAB Approval,Luke Wilson,JP,.Bart Hachey,Normal,PFA,PFA,PFA,
+Production,Active Update,01/02/19 09:00,CH3TR019845;CH3PR016586;CH3BR015586;CH3AR016586,Development  |Linux Patching,Hardware,CAB Approval,Luke Wilson,JP,.Bart Hachey,Normal,PFA,PFA,PFA,
+Production,3Com DMI Agent,01/05/19 09:00,CH3DP020661;CH3CP123654;CH3UP136591,Development  |Linux Patching,Software,CAB Approval,Luke Wilson,JP,.Bart Hachey,Normal,PFA,PFA,PFA,
+QA,Active Update,01/02/19 09:00,CH3TR019845;CH3PR016586;CH3BR015586;CH3AR016586,Development  |Linux Patching,Hardware,CAB Approval,Luke Wilson,JP,.Bart Hachey,Normal,PFA,PFA,PFA,
